@@ -1,0 +1,12 @@
+Name: Nepal
+Capital: ["Kathmandu"]
+Languages: Nepali
+Population: 29136808
+
+
+Name: Finland
+Capital: ["Helsinki"]
+Languages: Finnish, Swedish
+Population: 5530719
+
+
